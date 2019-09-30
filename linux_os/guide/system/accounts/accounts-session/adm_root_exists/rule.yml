@@ -1,0 +1,9 @@
+documentation_complete: true
+
+title: Exists user adm.root
+
+description: As of company policy, adm.root must exists on RHEL servers.
+
+rationale: The adm.root user is used by adm.root
+
+severity: medium
